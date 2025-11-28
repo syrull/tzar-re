@@ -2,7 +2,7 @@
 
 # Overview
 
-This is a repository for my blogpost: 
+This is a repository for my [blog post](https://dganev.com/posts/2025-11-28-re-tzar/)
 
 ```bash
 git clone https://github.com/syrull/tzar-re.git
